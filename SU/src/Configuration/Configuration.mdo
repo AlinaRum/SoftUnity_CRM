@@ -18,7 +18,7 @@
   <defaultRoles>Role.ПолныеПрава</defaultRoles>
   <defaultRoles>Role.АдминистраторСистемы</defaultRoles>
   <defaultRoles>Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</defaultRoles>
-  <version>1.0.1.1</version>
+  <version>1.0.1.3</version>
   <help>
     <pages>
       <lang>ru</lang>
@@ -1631,6 +1631,7 @@
   <catalogs>Catalog.Специалисты</catalogs>
   <catalogs>Catalog.Должности</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.КонтактныеЛицаКонтрагентов</catalogs>
   <documents>Document.Анкета</documents>
   <documents>Document.Встреча</documents>
   <documents>Document.ЗапланированноеВзаимодействие</documents>
